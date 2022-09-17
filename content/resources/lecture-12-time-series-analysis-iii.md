@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 12: Time Series Analysis III'
 uid: d8295c9b-dbbc-5b8c-18c0-fc46e131bd6c
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** This is the last of three lectures introducing the topic of time series analysis, describing cointegration, cointegrated VAR models, linear state-space models, and Kalman filters.
 
 **Instructor:** Dr. Peter Kempthorne
+

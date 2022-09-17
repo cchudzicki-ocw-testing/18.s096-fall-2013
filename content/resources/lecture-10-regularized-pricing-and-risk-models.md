@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 10: Regularized Pricing and Risk Models'
 uid: 79e71cc1-f7a5-385f-180b-dae971024f9d
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** This is a guest lecture on regularized pricing and risk models, featuring explanations of bonds, swaps, and yield curve models.
 
 **Instructor:** Ivan Masyukov
+

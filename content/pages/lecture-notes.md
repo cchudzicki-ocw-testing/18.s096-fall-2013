@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics along with the lecture
+  notes used for most class sessions.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Lecture Notes & Slides
 uid: 5595067e-ea85-a891-7808-e0dc047689f1
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

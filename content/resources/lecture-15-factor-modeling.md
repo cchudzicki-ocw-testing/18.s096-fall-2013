@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 15: Factor Modeling'
 uid: f2cea03b-00fa-ec53-0ca2-ac8df352ce38
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** This lecture describes factor modeling, featuring linear, macroeconomic, fundamental, and statistical factor models, and principal components analysis.
 
 **Instructor:** Dr. Peter Kempthorne
+

@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 5: Stochastic Processes I'
 uid: 2eb19d75-1209-d961-4c33-db7c9bba685a
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** This lecture introduces stochastic processes, including random walks and Markov chains.
 
 **Instructor:** Dr. Choongbum Lee
+

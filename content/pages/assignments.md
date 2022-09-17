@@ -1,10 +1,13 @@
 ---
 content_type: page
+description: This section provides the nine problem sets assigned for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 title: Assignments
 uid: 91a7a31d-49e5-03a8-4713-7266cb07cfbb
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

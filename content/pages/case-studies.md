@@ -1,9 +1,14 @@
 ---
 content_type: page
+description: This section provides the case studies used in the course, associated
+  files, and a link to more information on the free software environment used for
+  some case studies.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Case Studies
 uid: 2b463a8a-0a52-09f1-38e5-d6814ffaf688
+video_metadata:
+  youtube_id: null
 ---
 
 Some of the case studies use R, a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS. For more information and to download the software, visit The [R Project for Statistical Computing site](http://www.r-project.org/).
@@ -40,7 +45,7 @@ Regression Analysis
 {{< tdopen >}}
 
 
-[R Instructions (TXT)](./resolveuid/4d61fe39d7ac846f575a124fe688a4c8)
+{{% resource_link "4d61fe39-d7ac-846f-575a-124fe688a4c8" "R Instructions (TXT)" %}}
 
 {{% resource_link 96f5d45e-d53b-5efb-3bd2-ac547da127f1 "fm\_casestudy\_0\_InstallOrLoadLibraries (R)" %}}
 
@@ -59,7 +64,7 @@ Regression Analysis
 {{< tdopen >}}
 
 
-[R Instructions (TXT)](./resolveuid/8c856cae19c928af688551cb96e1b854)
+{{% resource_link "8c856cae-19c9-28af-6885-51cb96e1b854" "R Instructions (TXT)" %}}
 
 {{% resource_link 96f5d45e-d53b-5efb-3bd2-ac547da127f1 "fm\_casestudy\_0\_InstallOrLoadLibraries (R)" %}}
 
@@ -67,7 +72,7 @@ Regression Analysis
 
 {{% resource_link 1fcf3c9c-352e-d22a-5d96-a7b394eb354e "fm\_casestudy\_2\_rcode (R)" %}}
 
-[fred\_fxrates (TXT)](./resolveuid/81880ef88f7cdff3522d94e73c54b554)
+{{% resource_link "81880ef8-8f7c-dff3-522d-94e73c54b554" "fred\_fxrates (TXT)" %}}
 
 
 {{< tdclose >}}
@@ -131,15 +136,15 @@ Portfolio Theory
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link e3419b9c-ff96-7dbc-cefd-7bd9017066d0 "Case Study Plots: Simulation (PDF)" %}}
+{{% resource_link e3419b9c-ff96-7dbc-cefd-7bd9017066d0 "Case Study Plots: Simulation (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 95ab0099-89aa-5a67-f27d-beb620f7f830 "Case Study Plots: U.S. ETFS 2009-2013, Max Alloc 0.30 (PDF)" %}}
+{{% resource_link 95ab0099-89aa-5a67-f27d-beb620f7f830 "Case Study Plots: U.S. ETFS 2009-2013, Max Alloc 0.30 (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 6da5f057-0f7e-d859-4a3c-84365795a572 "Case Study Plots: U.S. ETFS 2009-2013, Max Alloc 0.15 (PDF)" %}}
+{{% resource_link 6da5f057-0f7e-d859-4a3c-84365795a572 "Case Study Plots: U.S. ETFS 2009-2013, Max Alloc 0.15 (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 88fd6375-57ae-a3cf-38b4-61b9db15233a "Case Study Plots: U.S. ETFs 2003-2006, Max Alloc 0.30 (PDF)" %}}
+{{% resource_link 88fd6375-57ae-a3cf-38b4-61b9db15233a "Case Study Plots: U.S. ETFs 2003-2006, Max Alloc 0.30 (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link a9aefd3a-fb39-5833-f34a-e58af804a416 "Case Study Plots: U.S. ETFs 2003-2006, Max Alloc 0.15 (PDF)" %}}
+{{% resource_link a9aefd3a-fb39-5833-f34a-e58af804a416 "Case Study Plots: U.S. ETFs 2003-2006, Max Alloc 0.15 (PDF)" %}}
 
 
 {{< tdclose >}}

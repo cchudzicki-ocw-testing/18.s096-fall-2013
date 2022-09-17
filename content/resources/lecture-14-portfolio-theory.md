@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 14: Portfolio Theory'
 uid: 0f6ae00c-71a8-f8a7-3d85-2d821a2d473d
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** This lecture describes portfolio theory, including topics of Markowitz mean-variance optimization, von Neumann-Morganstern utility theory, portfolio optimization constraints, and risk measures.
 
 **Instructor:** Dr. Peter Kempthorne
+

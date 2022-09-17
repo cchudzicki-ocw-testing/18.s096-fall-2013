@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 17: Stochastic Processes II'
 uid: 9abb2d8b-dd54-01b3-6ed3-59e3ddf5fc6a
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** This lecture covers stochastic processes, including continuous-time stochastic processes and standard Brownian motion.
 
 **Instructor:** Dr. Choongbum Lee
+

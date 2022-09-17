@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 6: Regression Analysis'
 uid: 28a7cf99-3a93-a027-8ad3-de777e055c1e
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** This lecture introduces the mathematical and statistical foundations of regression analysis, particularly linear regression.
 
 **Instructor:** Dr. Peter Kempthorne
+

@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 13: Commodity Models'
 uid: cc7d2d26-78ae-4c71-b553-3a30d0b0682a
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** This is a guest lecture on commodity modeling, analyzing the methods of generating profit with a constrained system.
 
 **Instructor:** Alexander Eydeland
+
